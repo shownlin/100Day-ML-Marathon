@@ -1,5 +1,6 @@
 # 100Day-ML-Marathon
-《機器學習百日馬拉松》練習
+
+![coverPhoto](images/coverPhoto.jpg?raw=true)
 
 ## 每日練習內容
 | DAY | 練習內容 | 完成？ |
