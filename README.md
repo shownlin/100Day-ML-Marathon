@@ -17,7 +17,7 @@
 | 10 | 數值型特徵 - 去除離群值 | Y |
 | 11 | 常用的數值取代：中位數與分位數連續數值標準化 | Y |
 | 12 | 數值型特徵-補缺失值與標準化 | Y |
-| 13 | DataFrame operationData frame merge/常用的 DataFrame 操作 | N |
+| 13 | DataFrame operationData frame merge/常用的 DataFrame 操作 | Y |
 | 14 | 程式實作 EDA: correlation/相關係數簡介 | N |
 | 15 | EDA from Correlation | N |
 | 16 | EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE) | N |
