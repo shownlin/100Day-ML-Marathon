@@ -18,7 +18,7 @@
 | 11 | 常用的數值取代：中位數與分位數連續數值標準化 | Y |
 | 12 | 數值型特徵-補缺失值與標準化 | Y |
 | 13 | DataFrame operationData frame merge/常用的 DataFrame 操作 | Y |
-| 14 | 程式實作 EDA: correlation/相關係數簡介 | N |
+| 14 | 程式實作 EDA: correlation/相關係數簡介 | Y |
 | 15 | EDA from Correlation | N |
 | 16 | EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE) | N |
 | 17 | EDA: 把連續型變數離散化 | N |
