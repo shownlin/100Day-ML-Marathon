@@ -21,7 +21,7 @@
 | 14 | 程式實作 EDA: correlation/相關係數簡介 | Y |
 | 15 | EDA from Correlation | Y |
 | 16 | EDA: 不同數值範圍間的特徵如何檢視/繪圖與樣式Kernel Density Estimation (KDE) | Y |
-| 17 | EDA: 把連續型變數離散化 | N |
+| 17 | EDA: 把連續型變數離散化 | Y |
 | 18 | 程式實作 把連續型變數離散化 | N |
 | 19 | Subplots | N |
 | 20 | Heatmap & Grid-plot | N |
