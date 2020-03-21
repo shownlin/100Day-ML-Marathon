@@ -24,8 +24,8 @@
 | 17 | EDA: 把連續型變數離散化 | Y |
 | 18 | 程式實作 把連續型變數離散化 | Y |
 | 19 | Subplots | Y |
-| 20 | Heatmap & Grid-plot | N |
-| 21 | 模型初體驗 Logistic Regression | N |
+| 20 | Heatmap & Grid-plot | Y |
+| 21 | 模型初體驗 Logistic Regression | Y |
 | 22 | 特徵工程簡介 | N |
 | 23 | 數值型特徵 - 去除偏態 | N |
 | 24 | 類別型特徵 - 基礎處理 | N |
