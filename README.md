@@ -37,7 +37,7 @@
 | 30 | 特徵選擇 | Y |
 | 31 | 特徵評估 | Y |
 | 32 | 分類型特徵優化 - 葉編碼 | Y |
-| 33 | 機器如何學習? | N |
+| 33 | 機器如何學習? | Y |
 | 34 | 訓練/測試集切分的概念 | N |
 | 35 | regression vs. classification | N |
 | 36 | 評估指標選定/evaluation metrics | N |
